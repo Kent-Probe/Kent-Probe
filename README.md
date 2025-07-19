@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Kevin Santiago Hernández Escobar
 
-<!--
-**Kent-Probe/Kent-Probe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Ingeniero de Sistemas
 
-Here are some ideas to get you started:
+**Skills & Tecnologías:**  
+- React  
+- JavaScript  
+- TypeScript  
+- C#  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Proyecto destacado:**  
+- Hidrobill
+
+**Logro profesional:**  
+- Creación de una solución digital para la gestión de inventario en Samicel.
+
+---
+
+## Sobre mí
+
+Soy un joven responsable y apasionado por el aprendizaje, siempre en busca de adquirir nuevos conocimientos y habilidades. Me esfuerzo constantemente por crecer tanto profesional como personalmente, trabajando arduamente para construir la mejor versión de mí mismo. Estoy dispuesto a enfrentar desafíos, aprender de cada experiencia y aportar lo mejor de mí en cada proyecto.
+
+---
+
+**🔗 Redes sociales:**  
+[LinkedIn](https://www.linkedin.com/in/kevin-santiago-hernandez-escobar-7621261ba/) (@lindeking)
+
+**🎸 Hobbies y curiosidades:**  
+- Tocar guitarra  
+- Hacer ejercicio  
+- Leer  
+- Pasarla bien  
+
+---
+
+¡Gracias por visitar mi perfil!
