@@ -6,10 +6,8 @@
 - React  
 - JavaScript  
 - TypeScript  
-- C#  
-
-**Proyecto destacado:**  
-- Hidrobill
+- C#
+- Java
 
 **Logro profesional:**  
 - Creación de una solución digital para la gestión de inventario en Samicel.
